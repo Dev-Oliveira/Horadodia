@@ -1,0 +1,19 @@
+{
+  "name": "hd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Oliveira/Horadodia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-Oliveira/Horadodia/issues"
+  },
+  "homepage": "https://github.com/Dev-Oliveira/Horadodia#readme"
+}
